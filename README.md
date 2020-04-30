@@ -60,4 +60,13 @@ In this command, the argument MODEL_STORED_DIRCTORY specifies the directory whic
 ./evaluate_mix_CNN_NYT_multiX.sh --model_dir MODEL_STORED_DIRCTORY
 ```
 
-## Extensions
+## Extension
+For the humorous style, although we used humorous novels, you can also try the following datasets:
+- 16000 One-Liners (16K positive)
+- Pun of the Day (2.4K)
+- Short Jokes (231K)
+
+It is likely that the large dataset Short Jokes will also generate good headlines.
+
+
+
