@@ -62,11 +62,12 @@ In this command, the argument MODEL_STORED_DIRCTORY specifies the directory whic
 
 ## Extension
 For the humorous style, although we used humorous novels, you can also try the following datasets:
-- 16000 One-Liners (16K positive)
-- Pun of the Day (2.4K)
-- Short Jokes (231K)
+- [16000 One-Liners](https://www.aclweb.org/anthology/H05-1067.pdf) (16K humorous)
+- [Pun of the Day](https://github.com/orionw/RedditHumorDetection/tree/master/data/puns) (16K humorous)
+- [Short Jokes](https://www.kaggle.com/abhinavmoudgil95/short-jokes) (231K humorous)
+- [Plaintext Jokes](https://github.com/taivop/joke-dataset) (208K humorous)
 
-It is likely that the large dataset Short Jokes will also generate good headlines.
+We suggest that the large dataset Short Jokes is likely to generate good headlines.
 
 
 
