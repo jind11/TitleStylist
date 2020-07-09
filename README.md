@@ -2,13 +2,17 @@
 Source code for our "TitleStylist" paper at ACL 2020: [Jin, Di, Zhijing Jin, Joey Tianyi Zhou, Lisa Orii, and Peter Szolovits. "Hooks in the Headline: Learning to Generate Headlines with Controlled Styles." ACL (2020).](https://arxiv.org/abs/2004.01980). If you use the code, please cite the paper:
 
 ```
-@article{jin2020hooks,
-  title={Hooks in the Headline: Learning to Generate Headlines with Controlled Styles},
-  author={Jin, Di and Jin, Zhijing and Zhou, Joey Tianyi and Orii, Lisa and Szolovits, Peter},
-  journal={arXiv preprint arXiv:2004.01980},
-  year={2020}
+@inproceedings{jin2020hooks,
+  author    = {Di Jin and Zhijing Jin and Joey Tianyi Zhou and Lisa Orii and Peter Szolovits},
+  title     = {Hooks in the Headline: Learning to Generate Headlines with Controlled
+               Styles},
+  booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational
+               Linguistics, {ACL} 2020, Online, July 5-10, 2020}, pages = {5082--5093},
+  publisher = {Association for Computational Linguistics}, year = {2020},
+  url       = {https://www.aclweb.org/anthology/2020.acl-main.456/}
 }
 ```
+Here is a [talk](https://youtu.be/c73Z0prqNsM) that introduces our work.
 
 ## Requirements
 ### Python packages
